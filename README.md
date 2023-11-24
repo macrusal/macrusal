@@ -1,11 +1,8 @@
 <h1 align="center">Marcelo Salvador</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [curso-aws-cdk](https://github.com/macrusal/curso-aws-cdk)
-
-- 🌱 I’m currently learning **Java, Golang, Swift, AWS, Clean Code, Solid Principles and other things**
-
-- 💬 Ask me about **Technologies**
+Back-end developer from Santo André-SP, Brazil, MBA in Software Engineering. From user registration written in Pascal, dBase and Clipper to "Hello World" in Java, Go, Swift, Kotlin and etc...
+Passionate about life, father of Victor Hugo, blue belt bjj, judo and capoeira, some of my hobbies I love photography, cooking and watching the sun set!
 
 - 📫 How to reach me **macrusal@gmail.com**
 
