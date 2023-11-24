@@ -1,6 +1,8 @@
 <h1 align="center">Marcelo Salvador</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-
+<div align="center">
+<img src="https://github.com/macrusal/macrusal/assets/9721307/6e883b5e-148c-47df-875b-ff349d0cdbfa" width="700px" />
+</div>
 Back-end developer from Santo André-SP, Brazil, MBA in Software Engineering. 
 From user registration written in Pascal, dBase and Clipper to "Hello World" in Java, Go, Swift, Kotlin and etc...
 Passionate about life, father of Victor Hugo, blue belt bjj, judo and capoeira, some of my hobbies I love photography, cooking and watching the sun set!
