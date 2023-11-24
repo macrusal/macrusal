@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcelo</h1>
+<h1 align="center">Marcelo Salvador</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [curso-aws-cdk](https://github.com/macrusal/curso-aws-cdk)
