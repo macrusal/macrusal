@@ -3,7 +3,7 @@
 <p align="justify" dir="auto">
       Back-end developer from Santo André-SP, Brazil, MBA in Software Engineering. 
       From user registration written in Pascal, dBase and Clipper to "Hello World" in Java, Go, Swift, Kotlin and etc...
-      Passionate about life, Victor Hugo's father, blue belt bjj, judo and capoeira, some of my hobbies I love photography, cooking and watching the sun set!
+      Passionate about life, Victor Hugo's dad, blue belt bjj, judo and capoeira, some of my hobbies I love photography, cooking and watching the sun set!
 </p>
 
 
